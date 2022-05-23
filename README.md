@@ -186,12 +186,11 @@ for i in n:
 
 ```
 ## OUTPUT:
-![Screenshot (221)](https://user-images.githubusercontent.com/75243072/169692094-d857a74d-dfb8-4250-a976-4abf00bdc00a.png)
+![WhatsApp Image 2022-05-23 at 8 36 28 AM](https://user-images.githubusercontent.com/75234646/169735803-f6c43a89-156c-4db9-8edc-5b6357041bd6.jpeg)
 
 ![Screenshot (220)](https://user-images.githubusercontent.com/75243072/169692105-9c8f753f-cee4-473d-9c19-7445f37213c0.png)<br>
 
 ![Screenshot (219)](https://user-images.githubusercontent.com/75243072/169692118-9adc3c75-e85a-479d-8709-11d488e32535.png)
-
 
 ## Solution Justification:
 When the state is larger, the longer it take to complete the search.The iteration will undergo untill the objective function reaches zero.
